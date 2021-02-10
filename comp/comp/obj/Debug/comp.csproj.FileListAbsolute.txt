@@ -1,0 +1,24 @@
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.csprojAssemblyReference.cache
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.Form1.resources
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.Properties.Resources.resources
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.csproj.GenerateResource.cache
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.csproj.CoreCompileInputs.cache
+C:\Users\Ioanna\source\repos\comp\comp\bin\Debug\comp.exe.config
+C:\Users\Ioanna\source\repos\comp\comp\bin\Debug\comp.exe
+C:\Users\Ioanna\source\repos\comp\comp\bin\Debug\comp.pdb
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.exe
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.pdb
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.calculator.resources
+C:\Users\Ioanna\source\repos\comp\comp\obj\Debug\comp.Form2.resources
+D:\uni\C# ergasies\comp\comp\bin\Debug\comp.exe.config
+D:\uni\C# ergasies\comp\comp\bin\Debug\comp.exe
+D:\uni\C# ergasies\comp\comp\bin\Debug\comp.pdb
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.csprojAssemblyReference.cache
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.calculator.resources
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.Form1.resources
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.Form2.resources
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.Properties.Resources.resources
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.csproj.GenerateResource.cache
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.csproj.CoreCompileInputs.cache
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.exe
+D:\uni\C# ergasies\comp\comp\obj\Debug\comp.pdb
